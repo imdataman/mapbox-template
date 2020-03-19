@@ -1,4 +1,4 @@
-# presidential-election-2020
+# mapbox-template
 
 ## Project setup
 ```
